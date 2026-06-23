@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔄 PayLoop
+# 🔄 SubscriptionBilling Engine
 
 ### *Smart Subscription Management & Automated Reminder System*
 
@@ -11,15 +11,13 @@
 
 *Never miss a subscription renewal again with intelligent automated reminders*
 
-[🚀 Live Demo](https://payloop-r4mr.onrender.com/) • [📖 Documentation](#-api-documentation) • [🛠️ Installation](#-quick-start)
-
 </div>
 
 ---
 
-## ✨ What is PayLoop?
+## ✨ What is this Engine?
 
-PayLoop is a **comprehensive subscription management ecosystem** that transforms how you track and manage recurring payments. Built with enterprise-grade security and intelligent automation, it delivers personalized renewal reminders through sophisticated workflow orchestration.
+It is a **comprehensive subscription management ecosystem** that transforms how you track and manage recurring payments. Built with enterprise-grade security and intelligent automation, it delivers personalized renewal reminders through sophisticated workflow orchestration.
 
 ### 🎯 **Core Value Proposition**
 - **Zero Missed Renewals**: Advanced 4-tier reminder system (7→5→2→1 days)
@@ -331,46 +329,3 @@ PayLoop's workflow engine automatically:
    - `QSTASH_TOKEN` - Production Upstash token
 
 ---
-
-## �‍💻 **About the Developer**
-
-<div align="center">
-
-### **Mohamed Yaser** 
-*Full-Stack Developer & Software Architect*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedyaser08/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/tmohamedyaser)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mohdyaser.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1ammar.yaser@gmail.com)
-
-</div>
-
----
-
-## 🤝 **Contributing**
-
-We welcome contributions! Here's how to get started:
-
-1. **Fork** the repository
-2. **Create** a feature branch: `git checkout -b feature/amazing-feature`
-3. **Commit** your changes: `git commit -m 'Add amazing feature'`
-4. **Push** to branch: `git push origin feature/amazing-feature`
-5. **Open** a Pull Request
-
----
-
-## � **License**
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-
-### � **PayLoop - Smart Subscription Management**
-*Built with ❤️ by Mohamed Yaser*
-
-**⭐ Star this repo if you find it helpful!**
-
-</div>
