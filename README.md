@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔄 SubscriptionBilling Engine
+# 🔄 Subscription Billing Engine
 
 ### *Smart Subscription Management & Automated Reminder System*
 
